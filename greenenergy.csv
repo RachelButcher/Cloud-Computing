@@ -1,0 +1,8 @@
+Energy.Provider,Green.Elec,Green.Gas,Carbon.Offset,Hydro,Solar,Wind,Anerobic.Digest
+Bulb,1,0.1,Yes,Yes,Yes,Yes,No
+OctopusEnergy,1,0.15,Yes,Yes,Yes,Yes,Yes
+GreenEnergyUK,1,1,No,Yes,Yes,Yes,No
+OutfoxtheMarket,1,0,No,No,No,Yes,No
+Npower,1,unknown,Yes,Yes,No,Yes,No
+Ecotricity,1,unknown,Yes,Yes,Yes,Yes,No
+OVOEnergy,1,0.15,Yes,Yes,Yes,Yes,Yes
