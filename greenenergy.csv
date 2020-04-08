@@ -1,8 +1,0 @@
-Energy.Provider,Green.Elec,Green.Gas,Carbon.Offset,Hydro,Solar,Wind,Anerobic.Digest
-Bulb,1,0.1,TRUE,TRUE,TRUE,TRUE,FALSE
-OctopusEnergy,1,0.15,TRUE,TRUE,TRUE,TRUE,TRUE
-GreenEnergyUK,1,1,FALSE,TRUE,TRUE,TRUE,FALSE
-OutfoxtheMarket,1,0,FALSE,FALSE,FALSE,TRUE,FALSE
-Npower,1,,TRUE,TRUE,FALSE,TRUE,FALSE
-Ecotricity,1,,TRUE,TRUE,TRUE,TRUE,FALSE
-OVOEnergy,1,0.15,TRUE,TRUE,TRUE,TRUE,TRUE
